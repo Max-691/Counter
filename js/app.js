@@ -1,5 +1,5 @@
-let body = document.getElementById = ('body');
-let getmain = document.getElementById = ('main');
+let body = document.getElementById('body');
+let getmain = document.getElementById('main');
 
 let addbutton = document.getElementById('add_button');
 let removebutton = document.getElementById('remove_button');
